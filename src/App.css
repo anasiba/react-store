@@ -1,22 +1,6 @@
  body{
     font-family: 'Open Sans Condensed', sans-serif;
+    padding: 20px 60px;
 
  }
 
- .osxbutton {
-   text-decoration: none;
-   font-family:".LucidaGrandeUI", "Lucida Grande", "Lucida sans unicode";
-   color: black;
-   font-size: 11px;
-   padding: 1px 7px;
-   border:1px solid #9C9C9C;
-   margin: 2px 2px;
-   display: inline-block;
-   background-image: -webkit-linear-gradient(
-   #ffffff 0%, #F6F6F6 	30%, 
-   #F3F3F3 45%, #EDEDED 	60%, 
-   #eeeeee 100%);
-   border-radius: 3px;
-   cursor: default;
-   box-shadow: 0px 0px 1px rgba(0,0,0,0.20);
-}
